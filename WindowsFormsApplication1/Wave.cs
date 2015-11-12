@@ -16,7 +16,7 @@ namespace WindowsFormsApplication1
         private int cellFirstPosY = 0;
         DataGridView dataGridView;
 
-        private static int wavesCount = 0;
+        //private static int wavesCount = 0;
         private Color cellColor;
         
         private int stepNum = 0;
